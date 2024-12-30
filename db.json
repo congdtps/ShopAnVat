@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "khomuc.jpg",
+      "name": "Khô mực sợi tứ xuyên",
+      "price": 150000,
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "image": "comchay.jpg",
+      "name": "Cơm cháy chiên nước mắm",
+      "price": 10000,
+      "size": "1 bịch 3 cái",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "image": "cacom.jpg",
+      "name": "Cá cơm chiên mắm tỏi",
+      "price": 230000,
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "image": "banhtrang.jpg",
+      "name": "Bánh tráng muối vô tri",
+      "price": 95000,
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "5",
+      "image": "keorung.jpg",
+      "name": "Kẹo chuối gừng đậu dừa non",
+      "price": 120000,
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "image": "banhxa.jpg",
+      "name": "Bánh xà lam dừa",
+      "price": 95000,
+      "size": "500 Gr",
+      "quantity": 1
+    }
+  ],
+  "productsDetail": [
+    {
+      "id": "1",
+      "image": "khomuc.jpg",
+      "name": "Khô mực sợi tứ xuyên",
+      "price": 150000,
+      "des": "🦑🦑🦑KHÔ MỰC SỢI TỨ XUYÊN 🦑🦑🦑. VỊ TỨ XUYÊN ĐẶC BIỆT, THƠM NGON, MỀM NHẸ, CAY VỪA. ĂN VẶT HAY NHĂM NHI HẾT SẢY Ạ. Nhìn vậy thôi chứ cay nhè nhẹ nha. Ta nói như ăn thơm nhẹ cay nhẹ. Khô mực sấy vị ớt cay nhẹ mang lại vị thích thú cho khách khi ăn !!! Nhậu beer bao ngon !!! và nói chung ăn rất là nhây chỉ đơn giản vì cái vị ớt không lẫn vào đâu được !!!!!",
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "image": "comchay.jpg",
+      "name": "Cơm cháy chiên nước mắm",
+      "price": 10000,
+      "des": "Cơm cháy thơm ngon, giòn ngụm, ăn 1 bịch đã ghiền, ăn nhiều bịch liền no nê. Ăn một mình thì ngon, nhưng ăn chung với người ta yêu thì ngon hơn gấp bội.",
+      "size": "1 bịch 3 cái",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "image": "cacom.jpg",
+      "name": "Cá cơm chiên mắm tỏi",
+      "price": 230000,
+      "des": "🐠🐠CÁ CƠM MẮM TỎI CAY SỐT THÁI🔥. ❌❌❌ Quá là bùng nổ luôn, em up lên cho các chế nào chưa thấy mua gấp luôn nè vì món ngon thật sự 😂. 🐟🐟🐟 Cá cơm chiên giòn sốt mắm tỏi cay cay ăn với bánh mì, ăn cơm là hết sảy luôn nha mấy chế ơi",
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "image": "banhtrang.jpg",
+      "name": "Bánh tráng muối vô tri",
+      "price": 95000,
+      "des": "❌❌❌BÁNH TRÁNG MUỐI VÔ TRI❌❌❌. 📣Bánh tráng muối vô tri đang hot tiktok đây🤤. ➡️➡️➡️ cho muối vào bịch, vò tay thêm xíu tắc và topping hay dầu sate tuỳyy y. 💁‍♀️Ăn vô cái thấy vô tri liền🤣🤣🤣. Combo 1 hủ muối và 250gr gói bánh tráng vô tri chỉ ✅✅✅✅💰💰💰",
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "5",
+      "image": "keorung.jpg",
+      "name": "Kẹo chuối gừng đậu dừa non",
+      "price": 120000,
+      "des": "💰Hủ 500gr ( kẹo tươi cắt dẻo từng viên xếp trong hủ bao dẻo bao ngon it ngọt ). Nếu khách cần quà tặng đặc sản quê nhà hoặc muốn thưởng thức kẹo quê trà bánh thì order ngay món kẹo chuối tuơi bếp em nhé . 🌿🌿🌿🌿🌿. ✅Kẹo Quê lò thủ công bên em, toàn bộ được làm truyền thống ít ngọt. Không pha nha nhiều. Với các nguyên liệu đồng quê. Thương mời khách xa gần ủng hộ. Hàng truyền thống thủ công nên bao đẹp và ngon nha các chế.",
+      "size": "500 Gr",
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "image": "banhxa.jpg",
+      "name": "Bánh xà lam dừa",
+      "price": 95000,
+      "des": "BÁNH XÀ LAM DỪA - ĐẶC SẢN BÁNH QUÊ BẾN TRE 🌾🌾🌾. 🎯Bánh Xà Lam Dừa được nướng kiểu truyền thống.🌹Vỏ bánh nướng mềm, vàng đượm, nhân được làm từ dừa rám nạo nguyên chất không pha trộn, cơm dừa bùi thơm không quá ngọt và nhân dừa mềm mịn tan chảy. 💮 Bánh Xà Lam Dừa - Thơm ngon khó cưỡng.",
+      "size": "500 Gr",
+      "quantity": 1
+    }
+  ],
+  "cartProducts": [],
+  "infoPerson": []
+}
